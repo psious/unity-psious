@@ -1,0 +1,1674 @@
+{
+  "homepages": [],
+  "source_base_path": "F:/GitHub/PSIOUS/VRcore/vrlibrary",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "IoFDq6mhlm+i/hDRMSqawA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "DliD0Zr7c0veTW0+hk4gHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "FG7VeyqVhvVHYG/JiW85Cw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Org.BouncyCastle.Crypto.Tls.AlwaysValidVerifyer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Org.BouncyCastle.Crypto.Tls.AlwaysValidVerifyer.html",
+          "hash": "nFFzgPbqRHPpMVeqaeyU9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Org.BouncyCastle.Crypto.Tls.ICertificateVerifyer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Org.BouncyCastle.Crypto.Tls.ICertificateVerifyer.html",
+          "hash": "fowT7YTW78hAL50eoPNhlA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Org.BouncyCastle.Crypto.Tls.IClientCredentialsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Org.BouncyCastle.Crypto.Tls.IClientCredentialsProvider.html",
+          "hash": "FMIEnOQHadjnf0j8CmWJgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Org.BouncyCastle.Crypto.Tls.LegacyTlsAuthentication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Org.BouncyCastle.Crypto.Tls.LegacyTlsAuthentication.html",
+          "hash": "xfsgIogN3QpQ/lYPPI6PoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Org.BouncyCastle.Crypto.Tls.LegacyTlsClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Org.BouncyCastle.Crypto.Tls.LegacyTlsClient.html",
+          "hash": "W5wi8iB6bsojKvMhEqg63Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Org.BouncyCastle.Crypto.Tls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Org.BouncyCastle.Crypto.Tls.html",
+          "hash": "mjv5mU8EOONOJWYUHCjGbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.ObjectModel.ObservableDictionary-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.ObjectModel.ObservableDictionary-2.html",
+          "hash": "irqr3Dg+S/ohW1j7M6klgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.ObjectModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.ObjectModel.html",
+          "hash": "tIa0luRlmpSDUH8hZ7Q3cg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.Specialized.INotifyCollectionChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.Specialized.INotifyCollectionChanged.html",
+          "hash": "3BBmB4At/DmUmTuu3fUQYQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.Specialized.NotifyCollectionChangedAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.Specialized.NotifyCollectionChangedAction.html",
+          "hash": "EYMN2w3kajmCF9WGirmzkA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.Specialized.NotifyCollectionChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.Specialized.NotifyCollectionChangedEventArgs.html",
+          "hash": "FLMRDXM0fhQp2Tk3ip1IWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.Specialized.NotifyCollectionChangedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.Specialized.NotifyCollectionChangedEventHandler.html",
+          "hash": "8Rzii8AHhnIKqXOjtm2btw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/PlatformSupport.Collections.Specialized.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PlatformSupport.Collections.Specialized.html",
+          "hash": "6XbRmKxjHRwCcF+OBCPKCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/System.Collections.Concurrent.ConcurrentQueue-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Collections.Concurrent.ConcurrentQueue-1.html",
+          "hash": "DzXHaZ1R5XTflLRVKF5W2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/System.Collections.Concurrent.ConcurrentStack-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Collections.Concurrent.ConcurrentStack-1.html",
+          "hash": "nekWa6tyuJ01BzVzx9Bf3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/System.Collections.Concurrent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Collections.Concurrent.html",
+          "hash": "id21PZJaQBjWdrS6fcPp1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.eSenseAnalysis.HertzChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.eSenseAnalysis.HertzChanged.html",
+          "hash": "iBYNkGsPZKg4cyXkHWmpHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.eSenseAnalysis.OhmChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.eSenseAnalysis.OhmChanged.html",
+          "hash": "bIANXz2m4rilIga9OQSsgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.eSenseAnalysis.SpikeDetected.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.eSenseAnalysis.SpikeDetected.html",
+          "hash": "//Dikos2lZhuik0p9SZCZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.eSenseAnalysis.TempChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.eSenseAnalysis.TempChanged.html",
+          "hash": "v00Sf7Ab/yLg8r+LCFWj4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.eSenseAnalysis.uMhoChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.eSenseAnalysis.uMhoChanged.html",
+          "hash": "PLiIaOwXG3CD2wtFdcFclQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.eSenseAnalysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.eSenseAnalysis.html",
+          "hash": "Lpz7Kqvt6vtTqpsbaR2pNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.Internal.html",
+          "hash": "tPJz+BOlx3dMOSoVMD2F5Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.HertzChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.HertzChanged.html",
+          "hash": "DicY0ak7tnFl2DcjNO5WTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.OhmChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.OhmChanged.html",
+          "hash": "1SG+0VJKegSk0ddXHakHfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.ProbableDisconnect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.ProbableDisconnect.html",
+          "hash": "jWB8v2YkOO6MUGuY2HsYcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.SpikeDetected.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.SpikeDetected.html",
+          "hash": "bzXKOgR5nEWgnsB7x9NW+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.TempChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.TempChanged.html",
+          "hash": "YiXX/tl9cdOcEZ7bWt2wyg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.uMhoChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.uMhoChanged.html",
+          "hash": "HLu9rSdA+IwqDE8tkx5PCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.eSenseFramework.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.eSenseFramework.html",
+          "hash": "6oeJfQAWg8s9RS4p7yxoyQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/eSense.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/eSense.html",
+          "hash": "hFbmv3HXCdWXyO9nlz2N9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "ijhzinRDry6Diqq1dde/HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.AppConfiguration.EEnvironment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.AppConfiguration.EEnvironment.html",
+          "hash": "cmwXBNvuL359av71BT1XbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.AppConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.AppConfiguration.html",
+          "hash": "W5gs/1inaaYSmiUm7eOOnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Audio.AndroidNativeVolumeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Audio.AndroidNativeVolumeService.html",
+          "hash": "8Bu8Ngp/Le5HvdHEX4/YmA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Audio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Audio.html",
+          "hash": "6tTmnzNeH89sMg8tXI+U9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.BioFeedback.Esense.EsenseController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.BioFeedback.Esense.EsenseController.html",
+          "hash": "J6HP1jwWINcMQXmypMm2fA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.BioFeedback.Esense.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.BioFeedback.Esense.html",
+          "hash": "K3HaOZLwSyiLQta1CD9oQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.BioFeedback.LifeVit.AndroidPluginLifeVitCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.BioFeedback.LifeVit.AndroidPluginLifeVitCallback.html",
+          "hash": "aMS/razcyE9hYZILes6XOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.BioFeedback.LifeVit.LifeVitController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.BioFeedback.LifeVit.LifeVitController.html",
+          "hash": "aSsbgPyWp9uXlQft2l53Gw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.BioFeedback.LifeVit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.BioFeedback.LifeVit.html",
+          "hash": "vkchryLiic+/OPYM7lnD8g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Biofeedback.BioFeedbackController.typeBiofeedback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Biofeedback.BioFeedbackController.typeBiofeedback.html",
+          "hash": "zdUCInWFJvXZxl3KZwUHmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Biofeedback.BioFeedbackController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Biofeedback.BioFeedbackController.html",
+          "hash": "bm6T7vRr8mOa9pI2CY26Pw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Biofeedback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Biofeedback.html",
+          "hash": "rtuKA/rQAmcTXx3HJuX9Hw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.CameraController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.CameraController.html",
+          "hash": "IEfrQZesOaMTUncTEAyFYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.CameraExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.CameraExtensions.html",
+          "hash": "poghL74+sVzqFykKPRfCkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.EyeGazeVR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.EyeGazeVR.html",
+          "hash": "eAur01r/2/avmaDC29Pucw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.LayerManager.ELayers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.LayerManager.ELayers.html",
+          "hash": "1DXXG8kNfhR3Cg8u+YCwSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.LayerManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.LayerManager.html",
+          "hash": "wysn2OXoi4BHZCV9Kj46RQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.RayController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.RayController.html",
+          "hash": "DoSq0aQ2N8VD6apdkUDyMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Camera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Camera.html",
+          "hash": "ccqv5KG1dgnsThU2wYXdXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Constants.html",
+          "hash": "joRP+or8rkBd7qsXAvdM2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.CoroutineManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.CoroutineManager.html",
+          "hash": "bYGkG6hzwroiff0IdzFfRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Debug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Debug.html",
+          "hash": "cUP/qcjn3LdyIG5znwDZVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSON.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSON.html",
+          "hash": "PZqdkE2zZ/J6kHeQVJPwaQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONArray.html",
+          "hash": "jcEM4xRFA9l6mlC8lTKpdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONBool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONBool.html",
+          "hash": "0NUcCGxZemjvkuXifmeEqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONContainerType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONContainerType.html",
+          "hash": "0On9U09CFdG2ozKNE5AVVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNode.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNode.Enumerator.html",
+          "hash": "GxEFaxgi5a1iSrUiR50UvQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNode.KeyEnumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNode.KeyEnumerator.html",
+          "hash": "eMW2pcv5HuzNsxUnqH3hBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNode.LinqEnumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNode.LinqEnumerator.html",
+          "hash": "CTksM8Dx+Cq6s+dfGMFzRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNode.ValueEnumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNode.ValueEnumerator.html",
+          "hash": "WbFnrMWcQ0Z27R0kpr+c2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNode.html",
+          "hash": "CG5WFK4nouDFoBTHGw+vPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNodeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNodeType.html",
+          "hash": "cT5WjXdI59dXN33LJ7u3fQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNull.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNull.html",
+          "hash": "JpGnU5RgIM5+0mPncuplRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONNumber.html",
+          "hash": "LeUg08qi2k7ANiQUiiV4iA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONObject.html",
+          "hash": "qaSLxVPes96NWhIQbrr1tQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONString.html",
+          "hash": "HGB7cenveMi88Zl+O/ddGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.JSONTextMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.JSONTextMode.html",
+          "hash": "6eqkvbY4Xp72R3CXD00png=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Json.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Json.html",
+          "hash": "JsXlPgOl/Ievq9i2eDTslw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Localization.Location.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Localization.Location.html",
+          "hash": "V5VWfbhuo8ZxSpKzvawFaQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Localization.LocationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Localization.LocationController.html",
+          "hash": "pNinPzuP9OG+Ni6dZJ/Edg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Localization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Localization.html",
+          "hash": "Ul8ujy/ZjRYSgoSAwwS/Rg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Memory.MemoryManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Memory.MemoryManager.html",
+          "hash": "+dynXvUHxkHmhy4HzcsRbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Memory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Memory.html",
+          "hash": "rAfRjhx7VEv8YPAwDEWasA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.DeviceData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.DeviceData.html",
+          "hash": "s603lwrEga7pPSEh+DhImA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.FileData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.FileData.html",
+          "hash": "0jbdTHDQbyjRENJHEgUKhg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.LangData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.LangData.html",
+          "hash": "1QWdSz6UuOqxVr8dIOnBuQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.PresessionCardData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.PresessionCardData.html",
+          "hash": "JBiwnY3yaQ6G2JNJuFelSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.PresessionData.Translation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.PresessionData.Translation.html",
+          "hash": "JiUUT8erRipBmqfTDk2C6A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.PresessionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.PresessionData.html",
+          "hash": "VByIOWxlqTEx5jUVhXe2tw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.PresessionSceneData.CorePresessionSceneData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.PresessionSceneData.CorePresessionSceneData.html",
+          "hash": "aaGpAcbS4pXO3HLBe+yBoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.PresessionSceneData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.PresessionSceneData.html",
+          "hash": "+PPqAqO/2sYbZ3eDZxPm2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.SceneData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.SceneData.html",
+          "hash": "97qJO9+gFh1W7Z5smSWfQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.UserData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.UserData.html",
+          "hash": "MB5IRB0ogezhk5T+GyWVXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Models.html",
+          "hash": "eIP5pX8gANp7Kmyp+Jblgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Notification.NotificationManager.ENoteType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Notification.NotificationManager.ENoteType.html",
+          "hash": "TigNm4IlVrPLaqy+D6v0XQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Notification.NotificationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Notification.NotificationManager.html",
+          "hash": "UTghPyotFERPBMHFm9PKjw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Notification.TermsAndCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Notification.TermsAndCondition.html",
+          "hash": "u5NxWZyUo6WCKUUjx88q1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Notification.TermsAndConditionController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Notification.TermsAndConditionController.html",
+          "hash": "vrA+oK9VussmJyxFyYkBBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Notification.TermsAndConditionObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Notification.TermsAndConditionObject.html",
+          "hash": "tyDc42aSZd0EyEhZtXJs8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Notification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Notification.html",
+          "hash": "EJH5XSWzmSOcPtyJSyIYhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.PsiousBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.PsiousBehaviour.html",
+          "hash": "sV2vnj2pzXCCubwOx1PScw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.PsiousLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.PsiousLoader.html",
+          "hash": "yDmFqMcBc6Vxwuv1I3tH0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Sessions.PreSessionController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Sessions.PreSessionController.html",
+          "hash": "n2WW+Ul0//wC4MvoSXRrUw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Sessions.PreSessionScenesController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Sessions.PreSessionScenesController.html",
+          "hash": "xlcQM3i7IAOkJrhxFD/OFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Sessions.SceneManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Sessions.SceneManager.html",
+          "hash": "5kRyjTyYWVEFmxpWtNg2AA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Sessions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Sessions.html",
+          "hash": "s/4CK5AoWpZ5qDTLnncUPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Singleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Singleton-1.html",
+          "hash": "iDhOpuw89rd/FmtSCy1BTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Singleton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Singleton.html",
+          "hash": "I8PjXXIGLhfcfEqlXK1fHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.StateApp.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.StateApp.State.html",
+          "hash": "SvzpDWjMTsbG9BB4Rx4d5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.StateApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.StateApp.html",
+          "hash": "xiLmyaMsWY4j0dU97cZn/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.UI.ProgressManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.UI.ProgressManager.html",
+          "hash": "LFJGn9QsFzeIEtar8/O67A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.UI.html",
+          "hash": "P15y3Dum60UMWkrQvVjHCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Users.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Users.User.html",
+          "hash": "HZ5/u31Q/qnhEiFlHXpRjw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Users.UserManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Users.UserManager.html",
+          "hash": "GbM/jiSWLUrkrExeS9Vhng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Users.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Users.html",
+          "hash": "n0ylJujYy9y7kSJcuVJ+pQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Utils.AndroidTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Utils.AndroidTools.html",
+          "hash": "ur3hPp+jfPlpWjBksvmpTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.Utils.html",
+          "hash": "xOorL5aSmHuofpswp6B1TA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.src.www.CustomWebRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.src.www.CustomWebRequest.html",
+          "hash": "HoOXYvvIo7XNvXb5FSAWJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.src.www.DownloadHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.src.www.DownloadHelper.html",
+          "hash": "zjSOM127DMea4LeuUEtISg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.src.www.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.src.www.html",
+          "hash": "4BECO+sxB9n4bTGEEEe9kw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.AssetsManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.AssetsManager.html",
+          "hash": "SrR7AMLeYR8TNc2Az6ya0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.BundleManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.BundleManager.html",
+          "hash": "/V2Ip8oaqgwGR87HR9aHIg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.DownloadManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.DownloadManager.html",
+          "hash": "8n6ppvV7j7KQSE8JVJka7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.KeyGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.KeyGenerator.html",
+          "hash": "uBb6XrUjuV5rlYqS8G1jPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.MessageBean.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.MessageBean.html",
+          "hash": "X2rONbVDSABJZRI4Y9IOdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.ProgressData.EType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.ProgressData.EType.html",
+          "hash": "JVRIQvsRUeW/lwBbAoAPTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.ProgressData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.ProgressData.html",
+          "hash": "z/S9fZUjp5cXOPT3uba+kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.RequestAPI.ERequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.RequestAPI.ERequest.html",
+          "hash": "FbuysHKw/c+LGtYjrmjgMg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.RequestAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.RequestAPI.html",
+          "hash": "AkZSvY1teS2QqdUiOzWsDQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.ResponseAPI.ErrorAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.ResponseAPI.ErrorAPI.html",
+          "hash": "4iFCiMWNBWn00NQ9eQcYqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.ResponseAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.ResponseAPI.html",
+          "hash": "0f9LReyg8Bz9v4/4tYFAfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.RestAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.RestAPI.html",
+          "hash": "k09nvkV5cNibK/O3zylP4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.SocketComunication.StateCom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.SocketComunication.StateCom.html",
+          "hash": "TLOtKH9d5OHkhHHsthHDNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.SocketComunication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.SocketComunication.html",
+          "hash": "5kI4rnXVLxtCtkvz31Hzmw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.VersionApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.VersionApp.html",
+          "hash": "rkBElYTq3AplD21PNkUAyg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.VersionCheckerApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.VersionCheckerApp.html",
+          "hash": "tim4IA4dl62NeLoenxVh6Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.www.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.www.html",
+          "hash": "ex2gyBoWD68EeRAYcaHjPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/vrlibrary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/vrlibrary.html",
+          "hash": "1UusRQhUJ9SVaXeztBABXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "G2AoE5T/2VarbHvzLEo4TQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 129,
+          "skipped_file_count": 129
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
